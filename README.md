@@ -14,12 +14,14 @@ This DLL patches out;
  * Invalid animation crash
  * Invalid coordinate crash
  * Invalid ItemDrop
- * Invalid Lua_Warp ( Working on a better fix for this one as you wont be able to use bonfires ) 
  * Drops various exploits including the "Ban packet". 
  * ForcedIdles
  * Invalid PlayerStructure
  * Slayers ( Just disables the param nothing fancy ) 
  * ItemCrashs
+ * Invalid NPC Summon
+ * Invalid NPC action
+ * Various invalid packets
 
 What this DLL does;
 This DLL will also reshade your game, It was my personal VFX settings I liked. Made dark souls III less washed out and makes the atmosphere more gloomy. You will be prompted with a message if you would like to reshade it or not. 
